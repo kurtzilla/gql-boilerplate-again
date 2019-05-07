@@ -9,3 +9,5 @@ temp/
 !**/.env.example
 
 ormconfig.json
+
+yarn.lock
